@@ -3,3 +3,7 @@
 # this is our code
 
 print("I like git")
+
+# this is a change to our code
+
+print ("I like merging")
